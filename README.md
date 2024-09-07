@@ -38,6 +38,3 @@ Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 - Scikit-Learn: Machine learning library for building and evaluating SVM models.
 - Matplotlib and Seaborn: Libraries for data visualization.
 - Jupyter Notebook: Interactive platform for running Python code and documenting the project.
-
-# **Author:**
-# SHANMUKH POTLURI
